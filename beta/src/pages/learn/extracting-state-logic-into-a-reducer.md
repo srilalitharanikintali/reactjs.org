@@ -2387,7 +2387,7 @@ Notably, you didn't need to change any of the event handlers to implement this d
 
 ### Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
 
-In the earlier examples, you imported the `useReducer` Hook from React. This time, you will implement *the `useReducer` Hook itself!* Here is a stub to get your started. It shouldn't take more than 10 lines of code.
+In the earlier examples, you imported the `useReducer` Hook from React. This time, you will implement *the `useReducer` Hook itself!* Here is a stub to get you started. It shouldn't take more than 10 lines of code.
 
 To test your changes, try typing into the input or select a contact.
 
