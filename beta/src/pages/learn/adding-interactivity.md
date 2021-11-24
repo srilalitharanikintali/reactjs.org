@@ -193,7 +193,7 @@ export const sculptureList = [{
 }, {
   name: 'Aureole',
   artist: 'Ranjani Shettar',
-  description: 'Shettar merges the traditional and the modern, the natural and the industrial. Her art focuses on the relationship between man and nature. Her work was described as compelling both abstractly and figuratively, gravity defying, and a "fine synthesis of unlikely materials."',
+  description: 'Shettar merges the traditional and the modern, the natural and the industrial. Her art focuses on the relationship between man and nature. Her work was described as compelling both abstractly and figuratively, gravity-defying, and a "fine synthesis of unlikely materials."',
   url: 'https://i.imgur.com/okTpbHhm.jpg',
   alt: 'A pale wire-like sculpture mounted on concrete wall and descending on the floor. It appears light.'
 }, {
